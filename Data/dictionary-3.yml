@@ -1,0 +1,717 @@
+political:
+  terrorism:
+    - act of terrorism
+    - terrorism
+    - terrorist act
+    - terrorist
+    - terror
+    - threat
+    - affright
+    - brat
+    - holy terror
+    - little terror
+    - panic
+    - scourge
+    - menace
+  war:
+    - state of war
+    - war
+    - warfare
+    - conflict
+    - battle
+    - hostility
+    - attack
+    - hostile
+    - combat
+    - dispute
+    - fight
+    - contravene
+    - aggression
+    - enmity
+    - blast
+    - onslaught
+    - plan of attack
+    - tone-beginning
+    - aggress
+    - assail
+    - assault
+    - lash out
+    - snipe
+    - uncongenial
+    - unfriendly
+    - armed combat
+    - fighting
+  tariff:
+    - revenue enhancement
+    - tax
+    - taxation
+    - tariff
+    - charge per unit
+  regulation:
+    - regulation
+    - ordinance
+    - regularisation
+    - regularization
+    - regulating
+    - rule
+    - regulatory
+    - policy
+    - bureau
+    - bureaucracy
+    - control
+    - govern
+    - law
+    - regulative
+    - authority
+    - federal agency
+    - government agency
+    - office
+    - bureaucratism
+    - command
+    - harness
+    - regularise
+    - regularize
+    - regulate
+    - jurisprudence
+  sustainability:
+    - decarbonization
+    - emissions
+    - sustainable
+    - sustainability
+    - zero-emissions
+    - clean
+    - carbon
+    - co2
+    - carbon dioxide
+    - pollution
+    - pollutant
+    - tailpipe
+    - carbon emissions
+    - waste
+    - conservation
+    - climate change
+    - global warming
+    - climate
+    - temperature
+    - footprint
+    - greenhouse
+    - greenhouse gas
+    - atmosphere
+    - biofuel
+    - ozone
+    - methane
+    - ice loss
+    - acidification
+    - particulate matter
+    - renewable
+    - environment
+    - environmental
+    - uncontaminating
+    - contamination
+    - waste material
+    - waste product
+    - preservation
+    - global climate change
+    - clime
+    - greenhouse emission
+    - particulate
+    - environs
+environmental:
+  storm:
+    - winter
+    - wintertime
+    - overwinter
+    - blizzard
+    - rain
+    - storm
+    - hurricane
+    - cyclone
+    - cloudburst
+    - rash
+    - snowstorm
+    - pelting
+    - rainfall
+    - rainwater
+    - rain down
+    - tempest
+    - violent storm
+    - downpour
+    - waterspout
+  flood:
+    - alluvion
+    - deluge
+    - flood
+    - flood tide
+    - flowage
+    - inundation
+    - outpouring
+    - overflow
+    - rising tide
+    - torrent
+    - inundate
+    - stream
+    - tide
+    - sealevel
+    - violent stream
+    - current
+    - flow
+  earth:
+    - earthquake
+    - quake
+    - seism
+    - temblor
+    - seismic
+    - tremor
+    - tsunami
+    - volcano
+    - volcanic
+    - landslide
+    - avalanche
+    - mudflow
+    - rockslide
+    - rockfall
+    - seismal
+    - earth tremor
+    - microseism
+    - landslip
+  drought:
+    - drought
+    - drouth
+    - heatwave
+    - heat
+    - high temperature
+    - hotness
+    - warmth
+  disaster:
+    - calamity
+    - cataclysm
+    - catastrophe
+    - disaster
+    - tragedy
+    - weather
+    - natural
+    - nuclear
+    - upwind
+    - weather(a)
+    - atmospheric condition
+    - weather condition
+  pandemic:
+    - pandemic
+    - coronavirus
+    - epidemic
+    - virus
+    - disease
+    - illness
+    - covid
+financial:
+  economy:
+    - fluctuation
+    - variation
+    - wavering
+    - inflation
+    - price
+    - gdp
+    - trade
+    - turbulence
+    - downturn
+    - deflation
+    - rising prices
+    - cost
+    - monetary value
+    - gross domestic product
+    - trade in
+    - sturm und drang
+    - turbulency
+    - downswing
+  finance:
+    - loan
+    - loanword
+    - budget
+    - profit
+    - credit
+    - bankruptcy
+    - bankrupt
+    - asset
+    - capital
+    - earnings
+    - gain
+    - lucre
+    - net
+    - net income
+    - net profit
+    - profits
+    - benefit
+    - turn a profit
+    - deferred payment
+    - failure
+    - insolvent
+    - washington
+supply_demand:
+  supply:
+    - dearth
+    - deficit
+    - famine
+    - shortage
+    - shortfall
+    - provision
+    - undersupply
+    - scarcity
+    - overstock
+    - surplus
+    - overproduction
+    - supplier
+    - production
+    - manufacturing
+    - import
+    - supply
+    - supplying
+    - scarceness
+    - excess
+    - spare
+    - supererogatory
+    - superfluous
+    - nimiety
+    - surplusage
+    - overrun
+    - provider
+    - output
+    - product
+    - importation
+    - importee
+    - provide
+  demand:
+    - retail merchant
+    - retailer
+    - customer
+    - export
+    - store
+    - market
+    - retail
+    - inventory
+    - consumption
+    - purchase
+    - demand
+    - sale
+    - client
+    - exportation
+    - depot
+    - shop
+    - food market
+    - grocery
+    - grocery store
+    - inventorying
+    - stock-taking
+    - stock list
+    - stocktaking
+    - stock-take
+    - take stock
+    - economic consumption
+    - expenditure
+    - ingestion
+    - intake
+    - phthisis
+    - pulmonary tuberculosis
+    - uptake
+    - buy
+logistic:
+  facility:
+    - facility
+    - facilities
+    - warehouse
+    - distribution center
+    - infrastructure
+    - storage warehouse
+  operations:
+    - bullwhip
+    - distribution
+    - delay
+    - storage
+    - strike
+    - dwell
+    - capacity
+    - efficacy
+    - safety
+    - dissatisfaction
+    - congestion
+    - utilization
+    - hold
+    - wait
+    - storehouse
+    - warehousing
+    - work stoppage
+    - safe
+    - safety device
+    - usage
+    - use
+    - utilisation
+  labor:
+    - labor
+    - labour
+    - labour party
+    - drive
+    - drudge
+    - worker
+    - trucker
+    - driver
+    - union
+    - salary
+    - wage
+    - wages
+    - employee
+    - employment
+    - employer
+    - retention
+    - truck driver
+    - labor union
+    - pay
+    - remuneration
+    - engage
+    - payoff
+    - reward
+    - employ
+    - engagement
+    - exercise
+    - work
+    - holding
+  transportation:
+    - fare
+    - shipping
+    - transport
+    - transportation
+    - trucking
+    - rate
+    - spot rate
+    - bottleneck
+    - ship
+    - container
+    - containers
+    - containership
+    - hauling
+    - truckage
+    - cargo ships
+    - merchant marine
+    - merchant vessels
+    - embark
+    - container ship
+    - container vessel
+system:
+  uncertainty:
+    - doubt
+    - doubtfulness
+    - dubiety
+    - dubiousness
+    - incertitude
+    - precariousness
+    - uncertainness
+    - uncertainty
+    - disruption
+    - closure
+    - havoc
+    - competitor
+    - break
+    - commotion
+    - disturbance
+    - interruption
+    - perturbation
+    - blockage
+    - closedown
+    - closing
+    - shutdown
+    - stop
+    - stoppage
+    - competition
+  resilience:
+    - transparence
+    - transparency
+    - transparentness
+    - trust
+    - resilience
+    - recover
+    - response
+    - responsiveness
+    - adapt
+    - adaptation
+    - partnership
+    - network
+    - diverse
+    - diversion
+    - redundancy
+    - redundant
+    - flexibility
+    - flexible
+    - connection
+    - connect
+    - repair
+    - corporate trust
+    - reliance
+    - trustfulness
+    - trustingness
+    - resiliency
+    - recuperate
+    - reactivity
+    - adaption
+    - adjustment
+    - redundance
+    - elastic
+    - flexile
+    - association
+    - connectedness
+    - connective
+    - connector
+    - connexion
+    - associate
+    - fix
+    - fixing
+    - reparation
+    - restore
+infrastructure:
+  water:
+    - port
+    - seaport
+    - waterway
+    - barge
+    - shipbuilding
+    - dock
+    - dockage
+    - dockyard
+    - harbor
+    - vessel
+    - harbour
+    - haven
+    - watercourse
+    - flatboat
+    - hoy
+    - docking facility
+    - loading dock
+    - pier
+    - wharf
+    - wharfage
+    - docking
+    - docking fee
+    - moorage
+    - vas
+    - watercraft
+  rail:
+    - rail
+    - railing
+    - rails
+    - track
+    - rail in
+    - rail off
+    - train
+    - railway
+    - railroad
+    - locomotive
+    - intermodal
+    - yards
+    - railport
+    - railroad line
+    - railroad track
+    - railway line
+    - railway system
+    - railroad train
+    - wagon train
+    - locomotor
+    - railway locomotive
+  road:
+    - highway
+    - main road
+    - road
+    - interstate
+    - street
+    - expressway
+    - lane
+    - truck
+    - long-haul
+    - parking
+    - inland
+    - route
+    - fuel
+    - diesel
+    - fueling
+    - fleet
+    - interstate highway
+    - freeway
+    - motorway
+    - state highway
+    - superhighway
+    - refueling
+  air:
+    - aerodrome
+    - airdrome
+    - airport
+    - aircraft
+    - drone
+    - airline
+    - aeroplane
+    - air cargo
+    - droning
+    - airway
+    - airplane
+    - plane
+sector:
+  agriculture:
+    - crop
+    - harvest
+    - cultivate
+    - grain
+    - agriculture
+    - produce
+    - fruit
+    - vegetable
+    - food
+    - cereal
+    - plantation
+    - livestock
+    - farming
+    - timber
+    - fish
+    - farm
+    - ranch
+    - forestry
+    - caryopsis
+    - food grain
+    - veggie
+    - agricultural
+    - land
+    - forest
+    - lumber
+    - harvesting
+    - reap
+    - cattle farm
+    - cattle ranch
+  construction:
+    - building
+    - construction
+    - structure
+    - concrete
+    - home
+    - residence
+    - housing
+    - rent
+    - mortgage
+    - family
+    - house
+    - household
+    - residency
+    - edifice
+    - lease
+  manufacturing:
+    - industry
+    - manufacture
+    - assembling
+    - machine
+    - automation
+    - materials
+    - automotive
+    - textile
+    - leather
+    - wood
+    - plastic
+    - rubber
+    - metal
+    - machinery
+    - computer
+    - electronics
+    - electronic
+    - equipment
+    - appliance
+    - component
+    - furniture
+    - fabrication
+    - fabricate
+    - auto
+    - automobile
+    - car
+    - motorcar
+    - cloth
+    - fabric
+    - material
+    - metallic
+    - alloy
+  mining:
+    - gas
+    - coal
+    - mine
+    - drilling
+    - exploration
+    - crude
+    - well
+    - shale
+    - oil sands
+    - hydrocarbon
+    - mining
+    - mineral
+    - ore
+    - quarrying
+    - fracking
+    - gasolene
+    - gasoline
+    - natural gas
+    - petrol
+    - ember
+    - oil production
+    - geographic expedition
+    - blunt
+    - raw
+    - unrefined
+    - crude oil
+    - fossil oil
+    - petroleum
+    - rock oil
+  trade:
+    - retail
+    - merchandise
+    - services
+    - service
+    - sale
+    - goods
+    - store
+    - non-store
+    - commerce
+    - e-commerce
+    - vendors
+    - dealer
+    - health care
+    - personal care
+    - gas stations
+    - gas station
+    - gasoline station
+    - gasoline stations
+    - book
+    - miscellaneous
+    - wholesale
+    - wholesaling
+    - resale
+    - warehouse
+    - merchant
+    - brokers
+    - agents
+    - broker
+    - agent
+    - market
+    - grocery
+    - ware
+    - inspection and repair
+    - overhaul
+    - sales agreement
+    - sales event
+    - shop
+    - stock
+    - storehouse
+    - commercialism
+    - mercantilism
+    - bargainer
+    - trader
+    - healthcare
+    - filling station
+    - petrol station
+    - storage warehouse
+    - merchandiser
+    - food market
+    - grocery store
+    - marketplace
+    - securities industry
+    - commercialise
+    - commercialize
+    - foodstuff
